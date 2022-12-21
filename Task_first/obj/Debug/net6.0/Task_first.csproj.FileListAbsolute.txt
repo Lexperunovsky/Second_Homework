@@ -1,0 +1,15 @@
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\bin\Debug\net6.0\Task_first.exe
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\bin\Debug\net6.0\Task_first.deps.json
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\bin\Debug\net6.0\Task_first.runtimeconfig.json
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\bin\Debug\net6.0\Task_first.dll
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\bin\Debug\net6.0\Task_first.pdb
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\obj\Debug\net6.0\Task_first.csproj.AssemblyReference.cache
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\obj\Debug\net6.0\Task_first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\obj\Debug\net6.0\Task_first.AssemblyInfoInputs.cache
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\obj\Debug\net6.0\Task_first.AssemblyInfo.cs
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\obj\Debug\net6.0\Task_first.csproj.CoreCompileInputs.cache
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\obj\Debug\net6.0\Task_first.dll
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\obj\Debug\net6.0\refint\Task_first.dll
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\obj\Debug\net6.0\Task_first.pdb
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\obj\Debug\net6.0\Task_first.genruntimeconfig.cache
+C:\Users\Lex\Desktop\HomeworkC#_Second\Task_first\obj\Debug\net6.0\ref\Task_first.dll
